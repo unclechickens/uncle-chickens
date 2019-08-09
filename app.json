@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "uncle-chickens",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
